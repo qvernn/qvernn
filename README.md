@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qvern
+- 👋 Hi, I’m @qvernn
 - 👀 I’m want to become a web developer (currently starting out with the foundations)
 - 🌱 I’m currently doing The Odin Project
 - 💞️ I’m looking to collaborate on projects later on once I get the basics down
