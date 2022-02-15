@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qvern
-- 👀 I’m interested in data science and web programming
-- 🌱 I’m currently starting out on learning HTML5 right now
+- 👀 I’m want to become a web developer (currently starting out with the foundations)
+- 🌱 I’m currently doing The Odin Project
 - 💞️ I’m looking to collaborate on projects later on once I get the basics down
 - 📫 How to reach me ... LinkedIn! (linkedin.com/in/carlyeung)
 
